@@ -1,0 +1,18 @@
+============================================================
+DATASET STATISTICS AND SUMMARY
+============================================================
+Number of classes: 3
+Class names:       ['male', 'female', 'hybrid']
+
+Training Dataset:
+  Total Images:    240
+    - male: 80 images
+    - female: 80 images
+    - hybrid: 80 images
+
+Testing Dataset:
+  Total Images:    60
+    - male: 20 images
+    - female: 20 images
+    - hybrid: 20 images
+

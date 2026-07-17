@@ -1,0 +1,16 @@
+============================================================
+TRAINING AND EVALUATION METRICS SUMMARY
+============================================================
+Optimizer:             Adam
+Loss Function:         Categorical Crossentropy
+Learning Rate:         0.001
+Batch Size:            32
+Epochs:                10
+Total Training Time:   83.90 seconds
+------------------------------------------------------------
+Test Accuracy:         1.0000
+Test Loss:             0.0475
+Macro Precision:       1.0000
+Macro Recall:          1.0000
+Macro F1 Score:        1.0000
+============================================================
